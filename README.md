@@ -24,10 +24,6 @@ CSS3 (Responsive with Media Queries)
 
 JavaScript (ES6)
 
-## Live Demo
-
- https://aroobadilshad-dev333.github.io/Rock-paper-scissors-game/
-
 ---
 
 *Created by*: AROOBA DILSHAD
